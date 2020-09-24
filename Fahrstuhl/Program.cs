@@ -29,7 +29,7 @@ namespace Fahrstuhl
             
             FahrsthuhlClass fahrsthuhl1 = new FahrsthuhlClass();
 
-            fahrsthuhl1.KnopfGedrueckt(3);
+            //fahrsthuhl1.KnopfGedrueckt(3);
             //fahrsthuhl1.KnopfGedrueckt(3);
             fahrsthuhl1.KnopfGedrueckt(4);
             fahrsthuhl1.KnopfGedrueckt(0);

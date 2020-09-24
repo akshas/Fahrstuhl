@@ -51,7 +51,7 @@ namespace Fahrstuhl
         {
 
             int i = (int)aufenthalt;
-            while (NachOben ? i < e : i >= e)
+            while (NachOben ? i <= e : i >= e)
             {
                 Thread.Sleep(1000);
                 Console.WriteLine(EtagenList[i]);
@@ -60,7 +60,7 @@ namespace Fahrstuhl
                  _= NachOben ? i++ : i--;
             }
             Halten();
-            Console.WriteLine("Die Tür wird geöffnet");
+            Console.WriteLine("Die Tür wird geöffnet. Etage: " + EtagenList[e]);
         }
     }
 }
