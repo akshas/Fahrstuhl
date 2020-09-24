@@ -1,0 +1,7 @@
+C:\Users\alex\source\repos\Fahrstuhl\Fahrstuhl\bin\Debug\Fahrstuhl.exe.config
+C:\Users\alex\source\repos\Fahrstuhl\Fahrstuhl\bin\Debug\Fahrstuhl.exe
+C:\Users\alex\source\repos\Fahrstuhl\Fahrstuhl\bin\Debug\Fahrstuhl.pdb
+C:\Users\alex\source\repos\Fahrstuhl\Fahrstuhl\obj\Debug\Fahrstuhl.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Fahrstuhl\Fahrstuhl\obj\Debug\Fahrstuhl.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Fahrstuhl\Fahrstuhl\obj\Debug\Fahrstuhl.exe
+C:\Users\alex\source\repos\Fahrstuhl\Fahrstuhl\obj\Debug\Fahrstuhl.pdb
